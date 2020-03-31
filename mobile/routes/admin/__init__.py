@@ -1,0 +1,2 @@
+from mobile.routes.admin.users import admin_users_blueprint
+from mobile.routes.admin.permissions import admin_permissions_blueprint
